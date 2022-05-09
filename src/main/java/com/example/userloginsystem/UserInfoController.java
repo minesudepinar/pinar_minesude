@@ -67,6 +67,7 @@ public class UserInfoController implements Initializable {
                 warning.setStyle("-fx-text-fill: green;");
                 warning.setText("Saved Successfully");
                 save.setText("UPDATE");
+                DatabaseConnect.user.setInfoAdded(true);
             }
 
         }catch (Exception e){
