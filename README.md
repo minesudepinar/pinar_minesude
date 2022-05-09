@@ -14,4 +14,4 @@ Go "HelloApplication" class and run main method.
 
 How to use
 
-You must create and accout firs. Go to sign up page and create an account.
+You must create an accout first. Go to sign up page and create an account. Write the email, phone number and adress. You go to the exit. You can login with your account information.
